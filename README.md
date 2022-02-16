@@ -8,29 +8,16 @@
   * Telegram: https://t.me/SergeyAverin
   * Discord PrettyStreet#5088
 
-## Skills 💪
-- Frontend:
-  * HTML, CSS, JS,
-  * Bootstrap
-  * SASS, SCSS
-  * Gulp
-  * Webpack
-  * React, Redux
-  * Next.js
-- Backend:
-  * Python + Django
-  * Node + Express
-  * Databases:
-   + PostgreSQL
-   + MySQL
-   + MongoDB
-   + Redis
-  * Linux
-  * Nginx
-  * RabbitMQ
-- Other skills:
-  * Figma
-  * Adobe Photoshop
+********* 
+# Skills 💪
+### Frontend:
+* HTML, CSS, JS | Bootstrap | SASS, SCSS | Gulp | Webpack | React, Redux | Next.js
+### Backend:
+  * Python + Django | Node + Express
+  * Databases: PostgreSQL | MySQL | MongoDB | Redis
+  * Linux | Nginx |RabbitMQ
+### Other skills:
+* Figma | Adobe Photoshop
   
 <!---
 PrettyStreett/PrettyStreett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
