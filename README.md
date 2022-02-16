@@ -1,7 +1,7 @@
 <img src="https://github.com/PrettyStreett/PrettyStreett/blob/main/PrettyStreet.gif"/>
 
 - 👋 Hi, I’m @PrettyStreett
-- 👀 I’m interested in web development and computer since
+- 👀 I’m interested web development and computer since
 - 📫 How to reach me ...
 
 <!---
