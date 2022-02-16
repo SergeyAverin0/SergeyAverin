@@ -1,6 +1,6 @@
 <img src="https://github.com/PrettyStreett/PrettyStreett/blob/main/PrettyStreet.gif"/>
 
-# About me 👩🏻‍💼
+# About me 📝
 - 👋 Hi, I’m @PrettyStreett
 - 👀 I’m interested web development and computer since
 - 📫 How to reach me 
@@ -10,13 +10,13 @@
 
 ********* 
 # Skills 💪
-### Frontend:
+### 🖼️ Frontend:
 * HTML, CSS, JS | Bootstrap | SASS, SCSS | Gulp | Webpack | React, Redux | Next.js
-### Backend:
+### 🔌 Backend:
   * Python + Django | Node + Express
   * Databases: PostgreSQL | MySQL | MongoDB | Redis
   * Linux | Nginx |RabbitMQ
-### Other skills:
+### 💩 Other skills:
 * Figma | Adobe Photoshop
   
 <!---
