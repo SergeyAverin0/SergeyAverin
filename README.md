@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @PrettyStreett
 - 👀 I’m interested web development and computer since
 - 📫 How to reach me 
-  * Email: [pretty.street.003@gmail.com
+  * Email: pretty.street.003@gmail.com
   * Telegram: https://t.me/SergeyAverin
   * Discord PrettyStreet#5088
 
