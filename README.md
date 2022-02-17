@@ -6,7 +6,7 @@
 - 📫 How to reach me 
   * Email: pretty.street.003@gmail.com
   * Telegram: https://t.me/SergeyAverin
-  * Discord PrettyStreet#5088
+  * Discord: PrettyStreet#5088
 
 ********* 
 # Skills 💪
@@ -15,7 +15,7 @@
 ### 🔌 Backend:
   * Python + Django | Node + Express
   * Databases: PostgreSQL | MySQL | MongoDB | Redis
-  * Linux | Nginx |RabbitMQ
+  * Linux | Nginx | RabbitMQ
 ### 💩 Other skills:
 * Figma | Adobe Photoshop
   
