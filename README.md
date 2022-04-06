@@ -1,4 +1,6 @@
 <img src="https://github.com/PrettyStreett/PrettyStreett/blob/main/PrettyStreet.gif"/>
+![](https://komarev.com/ghpvc/?username=PrettyStreett)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyStreett&theme=radical&hide_border=true&show_icons=true&layout=compact)
 
 # About me 📝
 - 👋 Hi, I’m @PrettyStreett
