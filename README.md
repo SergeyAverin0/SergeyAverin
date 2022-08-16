@@ -1,23 +1,21 @@
-<img src="https://github.com/PrettyStreett/PrettyStreett/blob/main/PrettyStreet.gif"/>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyStreett&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact)
 
 # About me 📝
-- 👋 Hi, I’m @PrettyStreett
+- 👋 Hi, I’m @SergeyAverin
 - 👀 I’m interested web development and computer since
 - 📫 How to reach me 
-  * Email: pretty.street.003@gmail.com
+  * Email: sergey.averin.003@gmail.com
   * Telegram: https://t.me/SergeyAverin
   * Discord: PrettyStreet#5088
 
 ********* 
 # Skills 💪
 ### 🖼️ Frontend:
-* HTML, CSS, JS | Bootstrap | SASS, SCSS | Gulp | Webpack | React, Redux | Next.js
+* HTML, CSS, JS | TS | Bootstrap | SASS, SCSS | PUG | Gulp | Webpack | React, Redux | Next.js
 ### 🔌 Backend:
   * Python + Django | Node + Express
   * Databases: PostgreSQL | MySQL | MongoDB | Redis
-  * Linux | Nginx | RabbitMQ
+  * Linux | Nginx | RabbitMQ | Docker | Elasticsearch
 ### 💩 Other skills:
 * Figma | Adobe Photoshop
   
