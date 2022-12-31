@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrettyStreett&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyAverin&theme=midnight-purple&hide_border=true&show_icons=true&layout=compact)
 
 # About me 📝
 - 👋 Hi, I’m @SergeyAverin
